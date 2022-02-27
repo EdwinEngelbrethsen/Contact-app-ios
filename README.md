@@ -1,4 +1,4 @@
-#  Kont 2022 - Kandidat 1009
+#  Kont 2022
 XCode 13.2.1
 Swift 5
 
